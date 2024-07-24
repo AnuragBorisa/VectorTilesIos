@@ -1,0 +1,18 @@
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/FeatureCollection.swift":
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.swiftdeps"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.dia"
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.d"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.swiftconstvalues"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.o"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/FeatureIdentifier.swift":
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.swiftconstvalues"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.dia"
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.d"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.o"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.swiftdeps"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/GeoJSON.swift":
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.d"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.o"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.swiftconstvalues"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.swiftdeps"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.dia"

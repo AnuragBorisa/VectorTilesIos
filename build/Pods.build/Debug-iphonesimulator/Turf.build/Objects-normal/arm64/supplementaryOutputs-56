@@ -1,0 +1,18 @@
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/JSON.swift":
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.swiftdeps"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.o"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.dia"
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.d"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.swiftconstvalues"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometry.swift":
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.d"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.swiftconstvalues"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.swiftdeps"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.o"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.dia"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/GeometryCollection.swift":
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.swiftconstvalues"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.o"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.swiftdeps"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.dia"
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.d"

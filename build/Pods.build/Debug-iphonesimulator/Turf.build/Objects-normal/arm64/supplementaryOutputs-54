@@ -1,0 +1,18 @@
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/CoreLocation.swift":
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.swiftconstvalues"
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.d"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.dia"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.o"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.swiftdeps"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Feature.swift":
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.d"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.swiftconstvalues"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.swiftdeps"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.dia"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.o"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Consumer/Consumer+WKT.swift":
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.d"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.o"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.dia"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.swiftconstvalues"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.swiftdeps"

@@ -1,0 +1,18 @@
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/MultiLineString.swift":
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.d"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.swiftconstvalues"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.o"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.swiftdeps"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.dia"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/LineString.swift":
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.d"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.o"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.swiftdeps"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.swiftconstvalues"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.dia"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/MultiPoint.swift":
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.swiftconstvalues"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.swiftdeps"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.dia"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.o"
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.d"

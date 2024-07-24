@@ -1,0 +1,98 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4208d6f7e039038e527371e6953faff60d"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd424fff5b878eb76268c180101cf95e2304"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42dfb03d8133a4c4d0ce289957deff5e40"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd421f49d3c805b31006d0a024a3e566cd89"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42a93f090e521fce7e1d7ae846defc0af3"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd424c39dd1c628091019762f6b5527d754d"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd426e0c7a9d3b49da15fe64895ad2fa1880"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd426fc9ace0c8808d101bf5c63f54197cca"
+    },
+    {
+      "guid" : "73a14fda9335c55c4197c297b26eb814c40db476ad72c94c070de368a6370eda"
+    },
+    {
+      "guid" : "73a14fda9335c55c4197c297b26eb814e704624c51a7be478241d41d9ee1f50e"
+    },
+    {
+      "guid" : "73a14fda9335c55c4197c297b26eb814556a61da21eb36a04c76c5b8a2e5e0e2"
+    }
+  ],
+  "containerPath" : "/Users/anurag/Desktop/VectorTilesIos/VectorTilesIos.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/anurag/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/anurag/Library/Developer/Xcode/DerivedData/VectorTilesIos-eycacgsheecnzqcsmtvcwuomedgj/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/anurag/Library/Developer/Xcode/DerivedData/VectorTilesIos-eycacgsheecnzqcsmtvcwuomedgj/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/anurag/Library/Developer/Xcode/DerivedData/VectorTilesIos-eycacgsheecnzqcsmtvcwuomedgj/CodeCoverage/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "1480BD26-4503-4520-94B0-972AEA7946EF",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

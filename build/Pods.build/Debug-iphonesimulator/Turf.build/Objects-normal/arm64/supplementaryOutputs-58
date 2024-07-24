@@ -1,0 +1,18 @@
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/MultiPolygon.swift":
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.swiftdeps"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.swiftconstvalues"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.o"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.dia"
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.d"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/Polygon.swift":
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.dia"
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.d"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.swiftconstvalues"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.o"
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.swiftdeps"
+"/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/Point.swift":
+  swift-dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.swiftdeps"
+  diagnostics: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.dia"
+  const-values: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.swiftconstvalues"
+  dependencies: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.d"
+  object: "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.o"

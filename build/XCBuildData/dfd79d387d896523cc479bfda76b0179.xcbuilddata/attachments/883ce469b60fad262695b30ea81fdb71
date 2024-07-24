@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests-master.dia",
+    "emit-module-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests-master.swiftdeps"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/VectorTilesIosTests/VectorTilesIosTests.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests.dia",
+    "index-unit-output-path" : "/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosTests.build/Objects-normal/arm64/VectorTilesIosTests~partial.swiftmodule"
+  }
+}

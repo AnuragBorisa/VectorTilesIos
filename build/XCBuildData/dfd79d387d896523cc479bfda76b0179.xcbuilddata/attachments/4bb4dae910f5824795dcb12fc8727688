@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests-master.dia",
+    "emit-module-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests-master.swiftdeps"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/VectorTilesIosUITests/VectorTilesIosUITests.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests.dia",
+    "index-unit-output-path" : "/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITests~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/VectorTilesIosUITests/VectorTilesIosUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITestsLaunchTests.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITestsLaunchTests.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/VectorTilesIos.build/Debug-iphonesimulator/VectorTilesIosUITests.build/Objects-normal/arm64/VectorTilesIosUITestsLaunchTests~partial.swiftmodule"
+  }
+}

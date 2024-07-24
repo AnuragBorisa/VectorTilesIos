@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_VectorTilesIos_VectorTilesIosUITestsVersionString[];
+ extern const double Pods_VectorTilesIos_VectorTilesIosUITestsVersionNumber;
+
+ const unsigned char Pods_VectorTilesIos_VectorTilesIosUITestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_VectorTilesIos_VectorTilesIosUITests  PROJECT:Pods-1" "\n";
+ const double Pods_VectorTilesIos_VectorTilesIosUITestsVersionNumber __attribute__ ((used)) = (double)1.;

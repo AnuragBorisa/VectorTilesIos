@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/anurag/Desktop/VectorTilesIos/build/Debug-iphonesimulator/MapboxMaps/MapboxMaps.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/MapboxMaps.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/anurag/Desktop/VectorTilesIos/build/Debug-iphonesimulator/MapboxMaps/MapboxMaps.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "MapboxMaps-Swift.h",
+      'external-contents': "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/MapboxMaps.build/unextended-interface-header.h",
+    }]
+    }]
+}

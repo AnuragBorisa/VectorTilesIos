@@ -1,0 +1,248 @@
+{
+  "" : {
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf-master.dia",
+    "emit-module-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf-master-emit-module.dia",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf-master.swiftdeps"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/BoundingBox.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Codable.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Consumer/Consumer.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Consumer/Consumer+WKT.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer+WKT~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/CoreLocation.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/CoreLocation~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Feature.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Feature~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/FeatureCollection.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureCollection~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/FeatureIdentifier.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/FeatureIdentifier~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/GeoJSON.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeoJSON~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/GeometryCollection.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/GeometryCollection~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/LineString.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/MultiLineString.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/MultiPoint.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/MultiPolygon.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPolygon~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/Point.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Point~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometries/Polygon.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Polygon~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Geometry.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Geometry~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/JSON.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/JSON~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/RadianCoordinate2D.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Ring.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Simplifier.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Spline.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/Turf.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf~partial.swiftmodule"
+  },
+  "/Users/anurag/Desktop/VectorTilesIos/Pods/Turf/Sources/Turf/WKT.swift" : {
+    "const-values" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.swiftconstvalues",
+    "dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.d",
+    "diagnostics" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.o",
+    "llvm-bc" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.bc",
+    "object" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.o",
+    "swift-dependencies" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.swiftdeps",
+    "swiftmodule" : "/Users/anurag/Desktop/VectorTilesIos/build/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT~partial.swiftmodule"
+  }
+}
